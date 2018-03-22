@@ -1,0 +1,31 @@
+{
+    "author": "Plugtopus Agency",
+    "background": {
+        "scripts": ["liberty/jquery.js", "javascript/bg.js"]
+    },
+    "browser_action": {
+        "default_icon": "icons/128.png",
+        "default_title": "__MSG_title__"
+    },
+    "content_scripts": [{
+        "all_frames": true,
+        "js": ["liberty/jquery.js", "javascript/content_script.js"],
+        "matches": ["*://www.facebook.com/*"],
+        "run_at": "document_idle"
+    }],
+    "default_locale": "ru",
+    "description": "__MSG_desc__",
+    "homepage_url": "https://plugtopus.agency",
+    "icons": {
+        "128": "icons/128.png",
+        "16": "icons/16.png",
+        "48": "icons/48.png"
+    },
+    "manifest_version": 2,
+    "name": "__MSG_name__",
+    "permissions": ["webRequest", "webRequestBlocking", "*://*/*", "storage", "tabs"],
+    "short_name": "__MSG_shortname__",
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "22.3.18.1",
+    "web_accessible_resources": ["/css/css.css", "/img/facebook-logotype.png"]
+}
