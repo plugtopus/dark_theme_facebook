@@ -26,6 +26,6 @@
     "permissions": ["webRequest", "webRequestBlocking", "*://*/*", "storage", "tabs"],
     "short_name": "__MSG_shortname__",
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "version": "22.3.18.1",
+    "version": "2018.3.23.1",
     "web_accessible_resources": ["/css/css.css", "/img/facebook-logotype.png"]
 }
