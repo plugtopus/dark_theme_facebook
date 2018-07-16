@@ -1,6 +1,6 @@
 *:not(a):not(button),
 #mainContainer *:not(a):not(button)::before {
-  border-color: #707070 !important;
+    border-color: #707070 !important;
 }
 
 ._4f7n,
@@ -8,25 +8,25 @@
 ._53jh,
 #fbTimelineHeadline,
 ._83k {
-  background: #202224 !important;
-  border-color: #202224 !important;
+    background: #202224 !important;
+    border-color: #202224 !important;
 }
 
 ._4f7n:after {
-  background: none !important;
+    background: none !important;
 }
 
 ._53jh input,
 ._585-,
 #fbTimelineHeadline,
 ._6-6 {
-  border-color: #202224 !important;
+    border-color: #202224 !important;
 }
 
 ._4kny .uiToggle:not(.hasNew) ._2n_9,
 ._4d1i ._59fb,
 ._5lxt {
-  filter: invert(1);
+    filter: invert(1);
 }
 
 body,
@@ -46,33 +46,33 @@ div._4-i2,
 .fbNubFlyoutTitlebar,
 .pagesTimelineLayout #globalContainer,
 ._1nc7 ._5w1r {
-  background: #252830 !important;
+    background: #252830 !important;
 }
 
 ._ipo,
-._1g5v+._4arz,
+._1g5v + ._4arz,
 #rightColContent ul {
-  background: none !important;
+    background: none !important;
 }
 
 .sideNavItem *::after,
 .sideNavItem a {
-  background: transparent !important;
-  border-color: transparent !important;
+    background: transparent !important;
+    border-color: transparent !important;
 }
 
 .fbSettingsList a:hover,
 .sideNavItem a:hover,
 .fbxWelcomeBoxSmallRow:hover::after {
-  background: rgba(0, 0, 0, 0.1) !important;
-  border-color: transparent !important;
+    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: transparent !important;
 }
 
 #globalContainer,
 .fbIndex .gradient,
 ._4lh .fbTimelineTimePeriod,
 .loadingIndicator {
-  background: #252830 !important;
+    background: #252830 !important;
 }
 
 ._42fu,
@@ -87,8 +87,8 @@ div._4-i2,
 ._3g_v,
 .uiButton,
 .uiButtonSuppressed {
-  background: #1997c6 !important;
-  border-color: #1997c6 !important;
+    background: #1997c6 !important;
+    border-color: #1997c6 !important;
 }
 
 ._xag:hover,
@@ -102,7 +102,7 @@ div._4-i2,
 ._3g_v:hover,
 .uiButton:hover,
 .uiButtonSuppressed:hover {
-  background: #1997c6 !important;
+    background: #1997c6 !important;
 }
 
 *,
@@ -113,7 +113,7 @@ li._kv ._l3,
 ._c24,
 .fcg,
 .sideNavItem a {
-  color: #cccccc !important;
+    color: #cccccc !important;
 }
 
 ._2s25,
@@ -123,7 +123,7 @@ li._kv ._l3,
 ._8_2 span,
 ._9ry,
 .linkWrap.noCount {
-  color: #e0f6ff !important;
+    color: #e0f6ff !important;
 }
 
 .ellipsis,
@@ -147,7 +147,7 @@ button span,
 .uiButton input,
 label,
 label span {
-  color: #ffffff !important;
+    color: #ffffff !important;
 }
 
 .tooltipContent,
@@ -185,7 +185,7 @@ html ._262m ._698,
 .recent,
 ._5kxe,
 ._4-u3._5dwa._5dw9 {
-  background: #434857 !important;
+    background: #434857 !important;
 }
 
 .uiTypeahead,
@@ -221,14 +221,14 @@ html ._55r1,
 ._54ne,
 ._54ne a,
 ._55ln:hover {
-  background: #434857 !important;
-  background-color: #434857 !important;
+    background: #434857 !important;
+    background-color: #434857 !important;
 }
 
 ._307z,
 ._1jf6._2pi9._2pi3,
 .fsm.fwn.fcg {
-  background: #434857 !important;
+    background: #434857 !important;
 }
 
 .uiToggleFlyout *:not(button):not(._517h),
@@ -236,7 +236,7 @@ html ._55r1,
 .mtm *,
 ._3ztw:hover,
 ._3ztw a {
-  background-color: transparent !important;
+    background-color: transparent !important;
 }
 
 ._2iwq,
@@ -249,16 +249,16 @@ html ._55r1,
 ._1_cb,
 ._4sp8,
 .displayedTickerToggleWrapper .tickerLineToggle {
-  background: transparent !important;
+    background: transparent !important;
 }
 
 .UFICommentPhotoIcon,
 .UFICommentStickerIcon {
-  filter: invert(1);
+    filter: invert(1);
 }
 
 .uiScrollableAreaBody a {
-  border-color: transparent !important;
+    border-color: transparent !important;
 }
 
 ._3c40,
@@ -269,11 +269,11 @@ html ._55r1,
 ._19_3,
 div._5a8u,
 ._4o-g:hover {
-  background-color: transparent !important;
+    background-color: transparent !important;
 }
 
 div.linkWrap {
-  color: #ffffff !important;
+    color: #ffffff !important;
 }
 
 ._6lh ._6li,
@@ -281,37 +281,37 @@ div.linkWrap {
 ._m_1,
 ._70l,
 ._4_el {
-  background: rgba(0, 0, 0, 0.1) !important;
+    background: rgba(0, 0, 0, 0.1) !important;
 }
 
 ._558b ._54nc,
 .uiMenuItem .itemAnchor,
 ._s39 {
-  border: none !important;
+    border: none !important;
 }
 
 input,
 ._55r1,
 .fbChatSidebarMessage {
-  background: #434857;
+    background: #434857;
 }
 
 .tooltipContent {
-  border: 1px solid rgba(100, 100, 100, 0.4);
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(100, 100, 100, 0.4);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
 }
 
 ._19bk,
 ._19bs,
 .rfloat._ohf,
 #facebook ._-kb {
-  color: black !important;
+    color: black !important;
 }
 
 ._2yap ._2yav {
-  color: #434857 !important;
+    color: #434857 !important;
 }
 
 ._2yav:hover {
-  color: #434857 !important;
+    color: #434857 !important;
 }
